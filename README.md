@@ -22,7 +22,7 @@
 
 <!-- Socials -->
 
-<div align="center" style="display: flex; justify-content: space-between; margin: 25px;">
+<div align="center" style="display: flex; justify-content: space-between;>
     <a href="#">
         <img src="./assets/Discord.svg" width="50" height="50" alt="Now Playing">
     </a>
