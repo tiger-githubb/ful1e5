@@ -13,9 +13,3 @@
 <a href="https://kaiz.vercel.app/now-playing?open">
     <img src="https://kaiz.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
----
-
-|                                                                                        |                                                                                   |                                                                                            |
-| :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| ![Join Discord](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg) | ![Twitter](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg) | ![Spotify Playlist](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg) |
