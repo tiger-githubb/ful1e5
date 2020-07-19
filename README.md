@@ -16,14 +16,15 @@
 
 ---
 
-<div align="center" style="display:flex; height:100px;justify-content:space-around; align-items:center;" >
+<div align="center" style="display:flex; justify-content:center; align-items:center;" >
     <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240" height="47" alt="Join Discord">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240px" height="47px" alt="Join Discord">
+    </a>    
+    <a href="#">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg" width="130px" height="50px" alt="Twitter">
     </a>
     <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg" width="130" height="50" alt="Twitter">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200px" height="30px" alt="Spotify Playlist">
     </a>
-    <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200" height="30" alt="Spotify Playlist">
-    </a>
+
 </div>
