@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center;" >
+<div align="center" style="display: flex; flex-wrap: wrap; flex-direction: column; align-content: space-between;" >
     <a href="#">
         <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240px" height="47px" alt="Join Discord">
     </a>    
