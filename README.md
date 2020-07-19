@@ -16,15 +16,20 @@
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; flex-direction: column; align-content: space-between;" >
+<div align="center">
     <a href="#">
         <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240px" height="47px" alt="Join Discord">
     </a>    
+</div>
+
+<div align="center">
     <a href="#">
         <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg" width="130px" height="50px" alt="Twitter">
     </a>
-    <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200px" height="30px" alt="Spotify Playlist">
-    </a>
+</div>
 
+<div align="center">
+    <a href="#">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200px" height="30" alt="Spotify Playlist">
+    </a>
 </div>
