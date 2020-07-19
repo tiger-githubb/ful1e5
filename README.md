@@ -16,6 +16,6 @@
 
 ---
 
-|                                       |                                  |                                           |
-| :-----------------------------------: | :------------------------------: | :---------------------------------------: |
-| ![Join Discord](./assets/Discord.svg) | ![Twitter](./assets/Twitter.svg) | ![Spotify Playlist](./assets/Spotify.svg) |
+|                                                                                        |                                                                                   |                                                                                            |
+| :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+| ![Join Discord](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg) | ![Twitter](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg) | ![Spotify Playlist](https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg) |
