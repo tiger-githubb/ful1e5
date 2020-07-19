@@ -21,7 +21,7 @@
 <!-- Socials -->
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://discord.gg/6T5nDNt">
+    <a href="https://discord.gg/2RjkTNK">
         <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="40" height="40" alt="Discord Server">
     </a>
     <a href="https://twitter.com/ful1e5_">
