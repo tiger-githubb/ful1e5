@@ -24,12 +24,12 @@
 <!-- Socials -->
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="#">
-        <img src="./assets/Discord.svg" width="256" height="64" alt="Now Playing">
+        <img src="./assets/Discord.svg" width="50%" height="50%" alt="Now Playing">
     </a>
     <a href="#">
-        <img src="./assets/Twitter.svg" width="256" height="64" alt="Now Playing">
+        <img src="./assets/Twitter.svg" width="50%" height="50%" alt="Now Playing">
     </a>
     <a href="#">
-        <img src="./assets/Spotify.svg" width="256" height="64" alt="Now Playing">
+        <img src="./assets/Spotify.svg" width="50%" height="50%" alt="Now Playing">
     </a>
 <div>
