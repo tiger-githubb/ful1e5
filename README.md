@@ -22,13 +22,13 @@
 <!-- Socials -->
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://twitter.com/ful1e5_" target="_blank">
+    <a href="https://discord.gg/6T5nDNt">
         <img src="./assets/Discord.svg" width="40" height="40" alt="Now Playing">
     </a>
-    <a href="https://discord.gg/6T5nDNt" target="_blank">
+    <a href="https://twitter.com/ful1e5_">
         <img src="./assets/Twitter.svg" width="40" height="40" alt="Now Playing">
     </a>
-    <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw" target="_blank">
+    <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
         <img src="./assets/Spotify.svg" width="40" height="40" alt="Now Playing">
     </a>
 <div>
