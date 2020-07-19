@@ -18,15 +18,12 @@
 
 <div align="center" style="display:flex;height:100px;justify-content: space-around;align-items: center; margin: 0 0 45px 0;" >
     <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240" height="47" onMouseOver="this.style.color='#7087D7'"
-   onMouseOut="this.style.color='#E1E4E8'" alt="Join Discord">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Discord.svg" width="240" height="47" alt="Join Discord">
     </a>
     <a href="#">
-        <img src="assets/Twitter.svg" width="130" height="50" onMouseOver="this.style.color='#1DA1F2'"
-   onMouseOut="this.style.color='#E1E4E8'" alt="Twitter">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Twitter.svg" width="130" height="50" alt="Twitter">
     </a>
     <a href="#">
-        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200" height="30" onMouseOver="this.style.color='#1ED760'"
-   onMouseOut="this.style.color='#E1E4E8'" alt="Spotify Playlist">
+        <img src="https://github.com/KaizIqbal/KaizIqbal/blob/master/assets/Spotify.svg" width="200" height="30" alt="Spotify Playlist">
     </a>
 </div>
