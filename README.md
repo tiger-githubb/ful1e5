@@ -20,16 +20,16 @@
 
 ---
 
-<br>
 <!-- Socials -->
-<div style="display: flex; justify-content: space-between;">
+
+<div align="center" style="display: flex; justify-content: space-between; padding: 5px;">
     <a href="#">
-        <img src="./assets/Discord.svg" width="75" height="75" alt="Now Playing">
+        <img src="./assets/Discord.svg" width="50" height="50" alt="Now Playing">
     </a>
     <a href="#">
-        <img src="./assets/Twitter.svg" width="75" height="75" alt="Now Playing">
+        <img src="./assets/Twitter.svg" width="50" height="50" alt="Now Playing">
     </a>
     <a href="#">
-        <img src="./assets/Spotify.svg" width="75" height="75" alt="Now Playing">
+        <img src="./assets/Spotify.svg" width="50" height="50" alt="Now Playing">
     </a>
 <div>
