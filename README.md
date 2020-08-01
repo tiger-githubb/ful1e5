@@ -14,7 +14,7 @@
 **Now Playing** on Spotify
 
 <a href="https://kaiz.vercel.app/now-playing?open">
-    <img src="https://kaiz.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img src="https://kaiz.vercel.app/now-playing" width="256" height="64" alt="Kaiz Playing Now">
 </a>
 
 <h2 align="center">Socials</h2>
