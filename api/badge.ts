@@ -11,7 +11,7 @@ export default async function (req: NowRequest, res: NowResponse) {
 
   const text = renderToString(
     Image({
-      width: 128,
+      width: 160,
       height: 28,
       src: "../assets/ninja_badge.svg",
       imageId: "Made By Kaiz",
