@@ -18,6 +18,4 @@
 
 **Preview:**
 
-<a href="https://github.com/KaizIqbal">
-<img src="https://kaiz.vercel.app/api/badge" alt="Made By Kaiz"/>
-</a>
+[![Made By Kaiz](https://kaiz.vercel.app/api/badge)](https://github.com/KaizIqbal)
