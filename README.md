@@ -3,8 +3,8 @@
 <!-- info -->
 
 - 🔭 I’m currently working on **[clickgen](https://github.com/ful1e5/clickgen)**
-- 🌱 I’m currently learning **web animations**
-- 💬 Ask me about `python`,`typescript`,`Linux`,`node`,`react`
+- 🤹 I’m currently improving **Vim** skill.
+- 💬 Ask me about `python`,`javascript`, `typescript`,`Linux`,`node`,`react`
 - 😄 Pronouns: **He**/**Him**
 
 ---
