@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaizIqbal/KaizIqbal.git"
+    "url": "git+https://github.com/ful1e5/ful1e5.git"
   },
   "keywords": [],
   "author": "Kaiz Khatri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KaizIqbal/KaizIqbal/issues"
+    "url": "https://github.com/ful1e5/ful1e5/issues"
   },
-  "homepage": "https://github.com/KaizIqbal/KaizIqbal#readme",
+  "homepage": "https://github.com/ful1e5/ful1e5#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
