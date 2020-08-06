@@ -1,5 +1,5 @@
 import React from "react";
-import ReadmeImg from "./ReadmeImg";
+import { ReadmeImg } from "./common";
 
 export interface Props {}
 export const NinjaBadge: React.FC<Props> = () => {
