@@ -1,6 +1,7 @@
 import { NowRequest, NowResponse } from "@vercel/node";
-import { NinjaBadge } from "../components/NinjaBadge";
 import { renderToString } from "react-dom/server";
+
+import { NinjaBadge } from "../components/NinjaBadge";
 
 export default async function (req: NowRequest, res: NowResponse) {
   res.setHeader("Content-Type", "image/svg+xml");
