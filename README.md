@@ -30,7 +30,7 @@
     <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
         <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Spotify.svg" width="40" height="40" alt="Spotify Playlist">
     </a>
-    <a href="https://www.twitch.tv/ful1e5">
+    <!-- <a href="https://www.twitch.tv/ful1e5">
         <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitch.svg" width="40" height="40" alt="Spotify Playlist">
-    </a>
+    </a> -->
 <div>
