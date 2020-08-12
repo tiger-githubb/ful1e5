@@ -24,7 +24,7 @@
     <a href="https://discord.gg/2RjkTNK">
         <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Discord.svg" width="40" height="40" alt="Discord Server">
     </a>
-    <a href="https://twitter.com/ful1e5_">
+    <a href="https://twitter.com/ful1e5">
         <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitter.svg" width="40" height="40" alt="Twitter">
     </a>
     <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
