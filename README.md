@@ -2,9 +2,9 @@
 
 <!-- info -->
 
-- 🔭 I’m currently working on **[clickgen](https://github.com/ful1e5/clickgen)**
-- 🤹 I’m currently improving **Vim** skill.
-- 💬 Ask me about `python`,`javascript`, `typescript`,`Linux`,`node`,`react`
+- 🔭 I’m currently working on **[Dev Actions Hackathhon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** & **[Bibata_Cursor](https://www.pling.com/p/1197198/)**
+- 🤹 I’m playing **Vim**.
+- 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
 
 ---
