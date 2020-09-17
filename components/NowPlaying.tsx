@@ -19,7 +19,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   return (
-    <ReadmeImg width="260" height="64">
+    <ReadmeImg width="280" height="64">
       <style>
         {`
             .paused { 
