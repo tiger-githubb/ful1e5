@@ -22,13 +22,27 @@ export const Player: React.FC<Props> = ({
     <ReadmeImg width="400" height="150">
       <style>
         {`
+            #card {
+              width: 400px;
+              height: 150px;
+              display: flex;
+              align-items: center;
+              background: #222;
+              transition: 0.3s;
+              border-radius: 4px;
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+              transition: 0.3s;
+            }
             .paused { 
               animation-play-state: paused !important;
               background: #e1e4e8 !important;
             }
             
             img {
-              border-radius: 10px;
+              max-width: 100%;
+              height: 105px;
+              width: auto;
+              border-radius: 10px
             }
 
             img:not([src]) {
@@ -142,23 +156,10 @@ export const Player: React.FC<Props> = ({
             }
         `}
       </style>
-      <div
-        className={isPlaying ? "disabled" : ""}
-        style={{
-          display: "flex",
-          alignItems: "center",
-          width: "400px",
-          height: "150px",
-          paddingTop: 8,
-          paddingLeft: 20,
-          paddingRight: 20,
-          background: "#222222",
-          borderRadius: "4px",
-        }}
-      >
+      <div className={isPlaying ? "disabled" : ""} id="card">
         <div id="wrapper">
-          <img id="blurred" src={cover ?? undefined} width="150" height="150" />
-          <img id="cover" src={cover ?? undefined} width="150" height="150" />
+          <img id="blurred" src={cover ?? undefined} />
+          <img id="cover" src={cover ?? undefined} />
         </div>
         <div
           style={{
