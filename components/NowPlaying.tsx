@@ -147,8 +147,8 @@ export const Player: React.FC<Props> = ({
         style={{
           display: "flex",
           alignItems: "center",
-          width: "280px",
-          height: "80px",
+          width: "400px",
+          height: "150px",
           paddingTop: 8,
           paddingLeft: 4,
           paddingRight: 4,
@@ -157,8 +157,8 @@ export const Player: React.FC<Props> = ({
         }}
       >
         <div id="wrapper">
-          <img id="blurred" src={cover ?? undefined} width="48" height="48" />
-          <img id="cover" src={cover ?? undefined} width="48" height="48" />
+          <img id="blurred" src={cover ?? undefined} width="150" height="150" />
+          <img id="cover" src={cover ?? undefined} width="150" height="150" />
         </div>
         <div
           style={{
