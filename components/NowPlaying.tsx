@@ -31,7 +31,7 @@ export const Player: React.FC<Props> = ({
               max-width: 100%;
               height: 105px;
               width: auto;
-              border-radius: 10px
+              border-radius: 13px;
             }
 
             img:not([src]) {
@@ -42,7 +42,6 @@ export const Player: React.FC<Props> = ({
             }
 
             p {
-              color: white;
               display: block;
               opacity: 0;
             }
@@ -154,7 +153,7 @@ export const Player: React.FC<Props> = ({
           height: "150px",
           padding: 20,
           background: "#222222",
-          borderRadius: "4px",
+          borderRadius: "8px",
         }}
       >
         <div id="wrapper">
