@@ -19,7 +19,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   return (
-    <ReadmeImg width="280" height="80">
+    <ReadmeImg width="400" height="150">
       <style>
         {`
             .paused { 
@@ -150,8 +150,8 @@ export const Player: React.FC<Props> = ({
           width: "400px",
           height: "150px",
           paddingTop: 8,
-          paddingLeft: 4,
-          paddingRight: 4,
+          paddingLeft: 20,
+          paddingRight: 20,
           background: "#222222",
           borderRadius: "4px",
         }}
