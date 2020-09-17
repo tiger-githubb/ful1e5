@@ -1,8 +1,8 @@
 import React from "react";
 
 const sizes = {
-  default: 20,
-  small: 18,
+  default: 14,
+  small: 12,
 };
 
 const colors = {

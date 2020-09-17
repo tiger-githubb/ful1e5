@@ -18,8 +18,12 @@ export const Player: React.FC<Props> = ({
   duration,
   isPlaying,
 }) => {
+  const trackEllipsis =
+    track.length > 30 ? track.substring(0, 30 - 3) + "..." : track;
+  const artistEllipsis =
+    artist.length > 35 ? artist.substring(0, 35 - 3) + "..." : artist;
   return (
-    <ReadmeImg width="400" height="150">
+    <ReadmeImg width="400" height="160">
       <style>
         {`
             .paused { 
@@ -28,9 +32,7 @@ export const Player: React.FC<Props> = ({
             }
             
             img {
-              max-width: 100%;
-              height: 105px;
-              width: auto;
+              z-index: 2;
               border-radius: 13px;
             }
 
@@ -97,12 +99,13 @@ export const Player: React.FC<Props> = ({
 
             #blurred {
               position: absolute;
-              z-index:0;
+              z-index:1;
               filter: blur(100px);
+              border-radius: 13px;
             }
 
             #cover {
-              z-index: 1;
+              z-index: 0;
               position: relative;
               animation-name: cover-appear;
               animation-delay: 300ms;
@@ -150,18 +153,26 @@ export const Player: React.FC<Props> = ({
         style={{
           display: "flex",
           alignItems: "center",
-          width: "400px",
-          height: "150px",
           padding: 20,
           background: "#222222",
+          width: "400px",
           borderRadius: "20px",
           boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
-          transition: "0.3s",
         }}
       >
         <div id="wrapper">
-          <img id="blurred" src={cover ?? undefined} />
-          <img id="cover" src={cover ?? undefined} />
+          <img
+            id="blurred"
+            src={cover ?? undefined}
+            height="100px"
+            width="auto"
+          />
+          <img
+            id="cover"
+            src={cover ?? undefined}
+            height="100px"
+            width="auto"
+          />
         </div>
         <div
           style={{
@@ -173,10 +184,10 @@ export const Player: React.FC<Props> = ({
           }}
         >
           <Text id="track" weight="bold">
-            {`${track ?? ""} `.trim()}
+            {`${trackEllipsis ?? ""} `.trim()}
           </Text>
           <Text id="artist" color={!track ? "white" : undefined}>
-            {artist || "Nothing playing..."}
+            {artistEllipsis || "Nothing playing..."}
           </Text>
           {track && (
             <div className="progress-bar">
