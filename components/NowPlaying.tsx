@@ -58,7 +58,7 @@ export const Player: React.FC<Props> = ({
               width: 100%;
               height: 6px;
               transform-origin: left center;
-              background-color: #24292e;
+              background-color: #1DB954;
               animation: progress ${duration}ms linear;
               animation-delay: -${progress}ms;
             }
@@ -144,6 +144,7 @@ export const Player: React.FC<Props> = ({
           paddingTop: 8,
           paddingLeft: 4,
           background: "#222222",
+          borderRadius: "4px",
         }}
       >
         <div id="wrapper">
@@ -162,7 +163,7 @@ export const Player: React.FC<Props> = ({
           <Text id="track" weight="bold">
             {`${track ?? ""} `.trim()}
           </Text>
-          <Text id="artist" color={!track ? "gray" : undefined}>
+          <Text id="artist" color={!track ? "white" : undefined}>
             {artist || "Nothing playing..."}
           </Text>
           {track && (
