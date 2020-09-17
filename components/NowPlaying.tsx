@@ -19,7 +19,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   return (
-    <ReadmeImg width="256" height="64">
+    <ReadmeImg width="260" height="64">
       <style>
         {`
             .paused { 
@@ -39,6 +39,7 @@ export const Player: React.FC<Props> = ({
             }
 
             p {
+              color: white;
               display: block;
               opacity: 0;
             }
@@ -48,7 +49,7 @@ export const Player: React.FC<Props> = ({
               width: 100%;
               height: 4px;
               margin: -1px;
-              border: 1px solid #e1e4e8;
+              border: 0.3px solid #e1e4e8;
               border-radius: 4px;
               overflow: hidden;
               padding: 2px;
@@ -164,7 +165,7 @@ export const Player: React.FC<Props> = ({
             marginLeft: 8,
           }}
         >
-          <Text id="track" weight="bold" color="white">
+          <Text id="track" weight="bold">
             {`${track ?? ""} `.trim()}
           </Text>
           <Text id="artist" color={!track ? "white" : undefined}>
