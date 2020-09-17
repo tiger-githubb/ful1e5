@@ -38,11 +38,11 @@ export const Player: React.FC<Props> = ({
               content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
               border-radius: 6px;
               background: #FFF;
-              border: 1px solid #e1e4e8;
+              border: 3px solid #F6F6F6;
             }
 
             p {
-              color: #EFF0F1;
+              color: #E1E4E8;
               display: block;
               opacity: 0;
             }
