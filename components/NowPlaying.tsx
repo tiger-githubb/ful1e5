@@ -83,9 +83,6 @@ export const Player: React.FC<Props> = ({
             }
 
             #wrapper {
-              width: 600px;
-              height: 600px;
-              margin: 0 100px;
               position: relative;
             }
 
