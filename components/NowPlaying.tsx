@@ -82,7 +82,22 @@ export const Player: React.FC<Props> = ({
               margin-top: 4px;
             }
 
+            #wrapper {
+              width: 600px;
+              height: 600px;
+              margin: 0 100px;
+              position: relative;
+            }
+
+            #blurred {
+              position: absolute;
+              z-index:0;
+              filter: blur(100px);
+            }
+
             #cover {
+              z-index: 1;
+              position: relative;
               animation-name: cover-appear;
               animation-delay: 300ms;
               box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
@@ -133,7 +148,15 @@ export const Player: React.FC<Props> = ({
           paddingLeft: 4,
         }}
       >
-        <img id="cover" src={cover ?? undefined} width="48" height="48" />
+        <div id="wrapper">
+          <img
+            id="cover blurred"
+            src={cover ?? undefined}
+            width="48"
+            height="48"
+          />
+          <img id="cover" src={cover ?? undefined} width="48" height="48" />
+        </div>
         <div
           style={{
             display: "flex",
