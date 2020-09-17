@@ -42,6 +42,7 @@ export const Player: React.FC<Props> = ({
             }
 
             p {
+              color: #EFF0F1;
               display: block;
               opacity: 0;
             }
@@ -153,7 +154,9 @@ export const Player: React.FC<Props> = ({
           height: "150px",
           padding: 20,
           background: "#222222",
-          borderRadius: "8px",
+          borderRadius: "20px",
+          boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
+          transition: "0.3s",
         }}
       >
         <div id="wrapper">
