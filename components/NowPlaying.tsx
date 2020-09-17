@@ -19,11 +19,11 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   const trackEllipsis =
-    track.length > 30 ? track.substring(0, 30 - 3) + "..." : track;
+    track?.length > 35 ? track.substring(0, 35 - 3) + "..." : track;
   const artistEllipsis =
-    artist.length > 35 ? artist.substring(0, 35 - 3) + "..." : artist;
+    artist?.length > 35 ? artist.substring(0, 35 - 3) + "..." : artist;
   return (
-    <ReadmeImg width="400" height="160">
+    <ReadmeImg width="400" height="145">
       <style>
         {`
             .paused { 
@@ -32,8 +32,8 @@ export const Player: React.FC<Props> = ({
             }
             
             img {
-              z-index: 2;
               border-radius: 13px;
+              z-index: 2;
             }
 
             img:not([src]) {
@@ -99,13 +99,13 @@ export const Player: React.FC<Props> = ({
 
             #blurred {
               position: absolute;
-              z-index:1;
-              filter: blur(100px);
-              border-radius: 13px;
+              z-index: 0;
+              filter: blur(50px);
+              
             }
 
             #cover {
-              z-index: 0;
+              z-index: 1;
               position: relative;
               animation-name: cover-appear;
               animation-delay: 300ms;
@@ -157,7 +157,7 @@ export const Player: React.FC<Props> = ({
           background: "#222222",
           width: "400px",
           borderRadius: "20px",
-          boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
+          overflow: "hidden",
         }}
       >
         <div id="wrapper">
@@ -184,10 +184,10 @@ export const Player: React.FC<Props> = ({
           }}
         >
           <Text id="track" weight="bold">
-            {`${trackEllipsis ?? ""} `.trim()}
+            {`${track ? trackEllipsis : ""} `.trim()}
           </Text>
           <Text id="artist" color={!track ? "white" : undefined}>
-            {artistEllipsis || "Nothing playing..."}
+            {artist ? artistEllipsis : "Nothing playing..."}
           </Text>
           {track && (
             <div className="progress-bar">
