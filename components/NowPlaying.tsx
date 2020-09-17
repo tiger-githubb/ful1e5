@@ -146,15 +146,11 @@ export const Player: React.FC<Props> = ({
           alignItems: "center",
           paddingTop: 8,
           paddingLeft: 4,
+          background: "#222222",
         }}
       >
         <div id="wrapper">
-          <img
-            id="cover blurred"
-            src={cover ?? undefined}
-            width="48"
-            height="48"
-          />
+          <img id="blurred" src={cover ?? undefined} width="48" height="48" />
           <img id="cover" src={cover ?? undefined} width="48" height="48" />
         </div>
         <div
