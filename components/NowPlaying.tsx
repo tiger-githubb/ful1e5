@@ -19,7 +19,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   return (
-    <ReadmeImg width="280" height="64">
+    <ReadmeImg width="280" height="80">
       <style>
         {`
             .paused { 
@@ -46,13 +46,14 @@ export const Player: React.FC<Props> = ({
 
             .progress-bar {
               position: relative;
-              width: 96%;
+              width: 100%;
               height: 4px;
               margin: -1px;
               border: 0.3px solid #e1e4e8;
               border-radius: 4px;
               overflow: hidden;
               padding: 2px;
+              padding-right: 30px
               z-index: 0;
             }
 
@@ -60,7 +61,7 @@ export const Player: React.FC<Props> = ({
               position: absolute;
               top: -1px;
               left: 0;
-              width: 96%;
+              width: 100%;
               height: 6px;
               transform-origin: left center;
               background-color: #1DB954;
