@@ -46,7 +46,7 @@ export const Player: React.FC<Props> = ({
 
             .progress-bar {
               position: relative;
-              width: 100%;
+              width: 96%;
               height: 4px;
               margin: -1px;
               border: 0.3px solid #e1e4e8;
@@ -60,7 +60,7 @@ export const Player: React.FC<Props> = ({
               position: absolute;
               top: -1px;
               left: 0;
-              width: 100%;
+              width: 96%;
               height: 6px;
               transform-origin: left center;
               background-color: #1DB954;
@@ -146,6 +146,7 @@ export const Player: React.FC<Props> = ({
         style={{
           display: "flex",
           alignItems: "center",
+          width: "280px",
           paddingTop: 8,
           paddingLeft: 4,
           background: "#222222",
