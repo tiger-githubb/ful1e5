@@ -26,6 +26,10 @@ export const Player: React.FC<Props> = ({
               animation-play-state: paused !important;
               background: #e1e4e8 !important;
             }
+            
+            img {
+              border-radius: 10px;
+            }
 
             img:not([src]) {
               content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
