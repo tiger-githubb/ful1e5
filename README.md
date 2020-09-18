@@ -2,6 +2,7 @@
 
 <!-- info -->
 
+- 💼 Full-time **Opensource ninja**
 - 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)**
 - 🤹 I’m playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
