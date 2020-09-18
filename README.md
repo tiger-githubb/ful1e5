@@ -2,10 +2,11 @@
 
 <!-- info -->
 
-- 🔭 I’m currently working on **[Dev Actions Hackathhon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** & **[Bibata_Cursor](https://www.pling.com/p/1197198/)**
-- 🤹 I’m playing **Vim**.
+- 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)**
+- 🤹 I’m playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
+- 🌈 Colours are in my **DNA**.
 
 ---
 
