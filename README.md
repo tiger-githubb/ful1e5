@@ -3,7 +3,7 @@
 <!-- info -->
 
 - 💼 Full-time **Opensource ninja**
-- 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)**
+- 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)** & **[Clickgen](https://pypi.org/project/clickgen/)**
 - 🤹 I’m playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
@@ -37,6 +37,6 @@
         <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kaiz's DEV Profile" height="40" width="40">
     </a>
     <!-- <a href="https://www.twitch.tv/ful1e5">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitch.svg" width="40" height="40" alt="Spotify Playlist">
+        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitch.svg" width="40" height="40" alt="Twitch">
     </a> -->
 <div>
