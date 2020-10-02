@@ -7,9 +7,7 @@ const sizes = {
 
 const colors = {
   default: "#ffffff",
-  "gray-light": "#e1e4e8",
-  gray: "#586069",
-  "gray-dark": "#24292e",
+  black: "#000000",
 };
 
 const families = {
