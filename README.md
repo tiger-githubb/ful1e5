@@ -1,42 +1,46 @@
+<!-- Favorite Emoji -->
+<p align="center">
+    <img src="https://i.imgur.com/oQuXRmR.gif" width="250" alt="star-stuck"/>
+</p>
+
 ### Hi, I'm Kaiz Khatri 👋
 
 <!-- info -->
 
 - 💼 Full-time **Opensource ninja**
+- 😍 Emoji lover
 - 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)** & **[Clickgen](https://pypi.org/project/clickgen/)**
 - 🤹 I’m playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
 - 🌈 Colours are in my **DNA**.
 
----
-
 <!-- Now Playing -->
-
-**Now Playing** on Spotify
 
 <p align="center">
     <a href="https://kaiz.vercel.app/now-playing?open">
         <img src="https://kaiz.vercel.app/now-playing" width="400" height="150" alt="Kaiz Playing Now">
     </a>
 </p>
+
 <h2 align="center">Socials</h2>
+
 <!-- Socials -->
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://discord.gg/2RjkTNK">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Discord.svg" width="40" height="40" alt="Kaiz's Discord Server">
-    </a>
+    <!-- <a href="https://discord.gg/2RjkTNK">
+        <img src="https://imgur.com/4Qdbdup.png" width="40" height="40" alt="Kaiz's Discord Server">
+    </a> -->
     <a href="https://twitter.com/ful1e5">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitter.svg" width="40" height="40" alt="Kaiz's Twitter Profile">
+        <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Kaiz's Twitter Profile">
     </a>
     <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Spotify.svg" width="40" height="40" alt="Kaiz's Spotify Playlist">
+        <img src="https://imgur.com/A20TvSR.png" width="40" height="40" alt="Kaiz's Spotify Playlist">
     </a>
     <a href="https://dev.to/ful1e5">
-        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kaiz's DEV Profile" height="40" width="40">
+        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Kaiz's dev.to Profile" height="35" width="35">
     </a>
     <!-- <a href="https://www.twitch.tv/ful1e5">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitch.svg" width="40" height="40" alt="Twitch">
+        <img src="https://imgur.com/ZZ3WVfE.png" width="40" height="40" alt="Twitch">
     </a> -->
 <div>
