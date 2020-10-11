@@ -8,9 +8,10 @@
 <!-- info -->
 
 - 💼 Full-time **Opensource ninja**
+- 🧑‍🎓 Software Engineer
 - 😍 Emoji lover
 - 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)** & **[Clickgen](https://pypi.org/project/clickgen/)**
-- 🤹 I’m playing with **Vim**.
+- 🤹 Playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
 - 🌈 Colours are in my **DNA**.
@@ -34,7 +35,7 @@
     <a href="https://twitter.com/ful1e5">
         <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Kaiz's Twitter Profile">
     </a>
-    <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
+    <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=ELSQNufATIyT33VoobBwCw">
         <img src="https://imgur.com/A20TvSR.png" width="40" height="40" alt="Kaiz's Spotify Playlist">
     </a>
     <a href="https://dev.to/ful1e5">
