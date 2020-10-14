@@ -41,6 +41,9 @@ export async function nowPlaying() {
     return {};
   } else if (status === 200) {
     const data = await response.json();
+    if(data.currently_playing_type==="episode"){
+      return {}
+    }
     return data;
   }
 }
