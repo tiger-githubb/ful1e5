@@ -19,11 +19,11 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   const trackEllipsis =
-    track?.length > 35 ? track.substring(0, 35 - 3) + "..." : track;
+    track?.length > 30 ? track.substring(0, 30 - 3) + "..." : track;
   const artistEllipsis =
-    artist?.length > 35 ? artist.substring(0, 35 - 3) + "..." : artist;
+    artist?.length > 50 ? artist.substring(0, 50 - 3) + "..." : artist;
   return (
-    <ReadmeImg width="400" height="145">
+    <ReadmeImg width="540" height="130">
       <style>
         {`
             .paused { 
@@ -32,15 +32,8 @@ export const Player: React.FC<Props> = ({
             }
             
             img {
-              border-radius: 13px;
+              border-radius: 60px;
               z-index: 2;
-            }
-
-            img:not([src]) {
-              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
-              border-radius: 6px;
-              background: #FFF;
-              border: 3px solid #F6F6F6;
             }
 
             p {
@@ -54,7 +47,7 @@ export const Player: React.FC<Props> = ({
               width: 100%;
               height: 4px;
               margin: -1px;
-              border: 0.3px solid #e1e4e8;
+              border: 0.1px solid #4f4f4f;
               border-radius: 4px;
               overflow: hidden;
               padding: 2px;
@@ -151,28 +144,28 @@ export const Player: React.FC<Props> = ({
       <div
         className={isPlaying ? "disabled" : ""}
         style={{
+          marginLeft:15,
           display: "flex",
           alignItems: "center",
-          padding: 20,
+          paddingTop: 20,
+          paddingBottom: 20,
+          paddingLeft: 40,
+          paddingRight: 40,
           background: "#222222",
-          width: "400px",
-          borderRadius: "20px",
+          width: "500px",
+          borderRadius: "14px",
           overflow: "hidden",
+          boxShadow:"0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
         }}
       >
         <div id="wrapper">
           <img
             id="blurred"
             src={cover ?? undefined}
-            height="100px"
+            height="60px"
             width="auto"
           />
-          <img
-            id="cover"
-            src={cover ?? undefined}
-            height="100px"
-            width="auto"
-          />
+          <img id="cover" src={cover ?? undefined} height="60px" width="auto" />
         </div>
         <div
           style={{
@@ -180,14 +173,19 @@ export const Player: React.FC<Props> = ({
             flex: 1,
             flexDirection: "column",
             marginTop: -4,
-            marginLeft: 8,
+            marginLeft: 35,
           }}
         >
-          <Text id="track" weight="bold">
-            {`${track ? trackEllipsis : ""} `.trim()}
+          <Text
+            id="artist"
+            color={!artist ? "white" : undefined}
+            weight="black"
+            size="small"
+          >
+            {artist ? artistEllipsis.toUpperCase() : ""}
           </Text>
-          <Text id="artist" color={!artist ? "white" : undefined}>
-            {artist ? artistEllipsis : "Nothing playing..."}
+          <Text id="track" weight="bold" size={track ? "large" : "larger"}>
+            {track ? trackEllipsis : "       Nothing playing..."}
           </Text>
           {track && (
             <div className="progress-bar">

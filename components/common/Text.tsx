@@ -1,8 +1,10 @@
 import React from "react";
 
 const sizes = {
+  larger:30,
+  large: 25,
   default: 14,
-  small: 12,
+  small: 8,
 };
 
 const colors = {
@@ -19,6 +21,7 @@ const families = {
 const weights = {
   default: 400,
   bold: 600,
+  black: 900
 };
 
 const Text: React.FC<any> = ({
