@@ -19,7 +19,7 @@ export const Player: React.FC<Props> = ({
   isPlaying,
 }) => {
   const trackEllipsis =
-    track?.length > 30 ? track.substring(0, 30 - 3) + "..." : track;
+    track?.length > 27 ? track.substring(0, 27 - 3) + "..." : track;
   const artistEllipsis =
     artist?.length > 50 ? artist.substring(0, 50 - 3) + "..." : artist;
   return (

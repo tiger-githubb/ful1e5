@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://kaiz.vercel.app/now-playing?open">
-        <img src="https://kaiz.vercel.app/now-playing" width="540px" height="130px" alt="Kaiz Playing Now">
+        <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
     </a>
 </p>
 
