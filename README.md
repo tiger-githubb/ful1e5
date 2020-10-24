@@ -8,7 +8,7 @@
 <!-- info -->
 
 - 💼 Full-time **Opensource ninja**
-- 🧑‍🎓 Software Engineer
+- 🧑‍🎓 Bachelor of Computer Science
 - 😍 Emoji lover
 - 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)** & **[Clickgen](https://pypi.org/project/clickgen/)**
 - 🤹 Playing with **Vim**.
