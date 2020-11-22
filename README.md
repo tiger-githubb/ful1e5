@@ -10,7 +10,7 @@
 - 💼 Full-time **Opensource ninja**
 - 🧑‍🎓 Bachelor of Computer Science
 - 😍 Emoji lover
-- 🔭 I’m currently working on **[Bibata_Cursor](https://www.pling.com/p/1197198/)** & **[Clickgen](https://pypi.org/project/clickgen/)**
+- 🔭 I’m currently working on **[Clickgen](https://pypi.org/project/clickgen/)**
 - 🤹 Playing with **Vim**.
 - 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
 - 😄 Pronouns: **He**/**Him**
