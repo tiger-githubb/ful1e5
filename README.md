@@ -1,8 +1,20 @@
-<img align="left" src="https://imgur.com/0KsYR8R.gif" alt="@ful1e5 is smiling"/>
+<br />
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
 
-Hi 👋, I'm Kaiz Khatri. i'm Full Time Opensource Ninja.
+# Hi, I'm Kaiz Khatri 👋
 
----
+💪 Pronouns: **He**/**Him**
+
+💼 Full-time **Opensource ninja**
+
+🧑‍🎓 Bachelor of Computer Science
+
+🤡 Programming memes creator on **[@ful1e5](https://twitter.com/ful1e5)**
+
+🤹 Playing with **Vim** & **Linux**.
+
+<br />
+<br />
 
 <!-- Now Playing -->
 
@@ -11,8 +23,6 @@ Hi 👋, I'm Kaiz Khatri. i'm Full Time Opensource Ninja.
         <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
     </a>
 </p>
-
-<h2 align="center">Socials</h2>
 
 <!-- Socials -->
 
