@@ -1,20 +1,8 @@
-<!-- Favorite Emoji -->
-<p align="center">
-    <img src="https://i.imgur.com/oQuXRmR.gif" width="250" alt="star-stuck"/>
-</p>
+<img align="left" src="https://imgur.com/0KsYR8R.gif" alt="@ful1e5 is smiling"/>
 
-### Hi, I'm Kaiz Khatri 👋
+Hi 👋, I'm Kaiz Khatri. i'm Full Time Opensource Ninja.
 
-<!-- info -->
-
-- 💼 Full-time **Opensource ninja**
-- 🧑‍🎓 Bachelor of Computer Science
-- 😍 Emoji lover
-- 🔭 I’m currently working on **[Clickgen](https://pypi.org/project/clickgen/)**
-- 🤹 Playing with **Vim**.
-- 💬 Ask me about `python`, `typescript/javascript`, `Linux`, `node`, `react`,`graphql`
-- 😄 Pronouns: **He**/**Him**
-- 🌈 Colours are in my **DNA**.
+---
 
 <!-- Now Playing -->
 
