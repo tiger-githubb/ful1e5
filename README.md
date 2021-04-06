@@ -9,7 +9,7 @@
 
 🧑‍🎓 Bachelor of Computer Science
 
-🤡 Programming memes creator on **[@ful1e5](https://twitter.com/ful1e5)**
+🖌️ Linux content creator on **[pling.com](https://www.pling.com/u/Kaiz/)**
 
 🤹 Playing with **Vim** & **Linux**.
 
