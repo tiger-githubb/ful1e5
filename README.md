@@ -1,5 +1,5 @@
 <br />
-<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
+<img src="./assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Kaiz Khatri 👋
 
@@ -11,7 +11,7 @@
 
 🖌️ Linux content creator on **[pling.com](https://www.pling.com/u/Kaiz/)**
 
-🤹 Playing with **Vim** & **Linux**.
+🤹 Playing with **NeoVim** & **Linux**.
 
 <br />
 <br />
