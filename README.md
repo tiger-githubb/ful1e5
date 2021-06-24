@@ -1,5 +1,5 @@
 <br />
-<img src="./assets/lines.svg" align="left" width="300" alt="ful1e5"/>
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Kaiz Khatri 👋
 
