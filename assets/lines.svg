@@ -1,20 +1,78 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none">
+<svg version="1.1" width="320" height="320" viewBox="0 0 320 320" fill="none" stroke="white" stroke-linecap="round"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g filter="url(#filter0_d)">
-    <rect x="37" y="49" width="246" height="222" rx="100" fill="black"/>
+      <rect x="25" y="23" width="270" height="270" rx="100" fill="black"/>
   </g>
-  <path d="M145.143 91.2478C144.417 92.5051 140.366 99.4392 136.2 106.64L128.632 119.707L128.556 127.594C128.517 134.033 128.365 136.053 127.677 138.871C126.607 143.557 124.811 148.511 122.785 152.397C118.504 160.703 113.077 164.208 93.7014 171.333C91.1016 172.285 89 173.161 89 173.313C89.0379 173.961 90.6046 174.951 104.67 183.029L119.765 191.715L127.792 191.791C138.531 191.868 143.117 192.896 151.869 197.163C160.354 201.24 163.984 206.422 170.405 223.452C171.896 227.414 173.271 230.843 173.425 230.996C173.615 231.187 177.667 224.518 182.482 216.213L191.234 201.087L191.272 193.583C191.311 183.181 192.533 177.733 196.585 169.352C201.247 159.75 206.216 156.588 230.331 147.787C231.02 147.52 231.135 147.292 230.866 146.834C230.676 146.492 223.605 142.225 215.198 137.386L199.833 128.547L196.7 128.852C194.941 129.043 191.731 129.081 189.515 128.928C181.45 128.471 175.717 127.023 168.609 123.593C159.934 119.441 156.149 114.298 150.111 98.2962C148.812 94.8292 147.436 91.3241 147.092 90.4859L146.442 89L145.143 91.2478ZM165.743 149.692C167.806 150.759 170.023 152.931 170.979 154.874C171.589 156.055 171.743 157.198 171.743 160.016C171.743 163.102 171.589 163.902 170.787 165.466C169.641 167.751 167.157 170.075 164.749 171.142C162.188 172.285 157.488 172.323 155.042 171.18C152.672 170.075 150.15 167.713 149.003 165.466C147.704 162.989 147.665 158.416 148.888 155.788C150.073 153.197 152.328 150.911 154.927 149.654C157.029 148.626 157.488 148.549 160.659 148.701C163.259 148.777 164.481 149.045 165.743 149.692Z" fill="#F2F2F2">
-    <animateTransform attributeName="transform" type="rotate" from="360 160 160" to="0 160 160" additive="sum" begin="0s" dur="1.5s" repeatCount="indefinite"/>
-  </path>
   <defs>
-    <filter id="filter0_d" x="35" y="47" width="266" height="242" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dx="8" dy="8"/>
-      <feGaussianBlur stdDeviation="5"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    <filter id="filter0_d" x="0" y="0" width="318" height="318" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+    <feOffset dx="8" dy="8"/>
+    <feGaussianBlur stdDeviation="5"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
     </filter>
+    <path id="r1">
+      <animate id="p1" attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin"/>
+    </path>
+    <path id="r2">
+      <animate attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite" begin="p1.begin+1s"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin+1s"/>
+    </path>
+    <path id="r3">
+      <animate attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite" begin="p1.begin+2s"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin+2s"/>
+    </path>
+    <path id="r4">
+      <animate id="p1" attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite" begin="p1.begin+3s"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin+3s"/>
+    </path>
+    <path id="r5">
+      <animate attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite" begin="p1.begin+4s"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin+4s"/>
+    </path>
+    <path id="r6">
+      <animate attributeName="d" values="m160,160l0,0 0,0;m130,110l30,-17 30,17;m130,60l30,-17 30,17;m160,20l0,0 0,0" dur="6s" repeatCount="indefinite" begin="p1.begin+5s"/>
+      <animate attributeName="stroke-width" values="0;4;4;4;0" dur="6s" repeatCount="indefinite" begin="p1.begin+5s"/>
+    </path>
   </defs>
+  <use xlink:href="#r1"/>
+  <use xlink:href="#r1" transform="rotate(60 160 160)"/>
+  <use xlink:href="#r1" transform="rotate(120 160 160)"/>
+  <use xlink:href="#r1" transform="rotate(180 160 160)"/>
+  <use xlink:href="#r1" transform="rotate(240 160 160)"/>
+  <use xlink:href="#r1" transform="rotate(300 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(30 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(90 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(150 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(210 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(270 160 160)"/>
+  <use xlink:href="#r2" transform="rotate(330 160 160)"/>
+  <use xlink:href="#r3"/>
+  <use xlink:href="#r3" transform="rotate(60 160 160)"/>
+  <use xlink:href="#r3" transform="rotate(120 160 160)"/>
+  <use xlink:href="#r3" transform="rotate(180 160 160)"/>
+  <use xlink:href="#r3" transform="rotate(240 160 160)"/>
+  <use xlink:href="#r3" transform="rotate(300 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(30 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(90 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(150 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(210 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(270 160 160)"/>
+  <use xlink:href="#r4" transform="rotate(330 160 160)"/>
+  <use xlink:href="#r5"/>
+  <use xlink:href="#r5" transform="rotate(60 160 160)"/>
+  <use xlink:href="#r5" transform="rotate(120 160 160)"/>
+  <use xlink:href="#r5" transform="rotate(180 160 160)"/>
+  <use xlink:href="#r5" transform="rotate(240 160 160)"/>
+  <use xlink:href="#r5" transform="rotate(300 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(30 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(90 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(150 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(210 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(270 160 160)"/>
+  <use xlink:href="#r6" transform="rotate(330 160 160)"/>
 </svg>
+
