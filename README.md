@@ -5,13 +5,13 @@
 
 💪 Pronouns: **He**/**Him**
 
-💼 Full-time **Opensource ninja**
+💼 Full-time **OpenSource ninja**
 
 🧑‍🎓 Bachelor of Computer Science
 
 🖌️ Linux content creator on **[pling.com](https://www.pling.com/u/Kaiz/)**
 
-🤹 Playing with **NeoVim** & **Linux**.
+🤹 Playing with **Neovim** & **Linux**.
 
 <br />
 <br />
