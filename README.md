@@ -11,7 +11,7 @@
 
 🤹 Playing with **Neovim** & **Linux**.
 
-♥️ Sponsors [paypal.me](https://www.paypal.com/paypalme/kaizkhatri)
+♥️ Support [Patreon](https://www.patreon.com/KaizKhatri), [paypal.me](https://www.paypal.com/paypalme/kaizkhatri)
 
 <br />
 <br />
