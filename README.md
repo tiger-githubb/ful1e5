@@ -9,9 +9,9 @@
 
 🧑‍🎓 Bachelor of Computer Science
 
-🖌️ Linux content creator on **[pling.com](https://www.pling.com/u/Kaiz/)**
-
 🤹 Playing with **Neovim** & **Linux**.
+
+♥️ Sponsors [paypal.me](https://www.paypal.com/paypalme/kaizkhatri)
 
 <br />
 <br />
