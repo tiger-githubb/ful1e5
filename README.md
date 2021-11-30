@@ -31,9 +31,6 @@
   <a href="https://twitter.com/ful1e5">
     <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Twitter Profile">
   </a>
-  <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=ELSQNufATIyT33VoobBwCw">
-    <img src="https://imgur.com/A20TvSR.png" width="40" height="40" alt="Spotify Playlist">
-  </a>
   <a href="https://dev.to/ful1e5">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="dev.to Profile" height="35" width="35">
   </a>
