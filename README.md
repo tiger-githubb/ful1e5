@@ -25,9 +25,9 @@
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
   </a>
   <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Twitter">
+    <img src="https://imgur.com/tsCKKG1.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://dev.to/ful1e5">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" height="35" width="35" alt="dev.to">
+    <img src="https://imgur.com/DWD6hEy.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
