@@ -4,9 +4,13 @@
 # Hi, I'm Kaiz Khatri 👋
 
 - Pronouns: **He**/**Him**
+
 - Technology Lover
+
 - Bachelor of Computer Science
+
 - Full-time **OpenSource Ninja**
+
 - You can support my work by [Patreon](https://www.patreon.com/KaizKhatri) or [liberapay](https://liberapay.com/ful1e5)
 
 <br />
@@ -25,9 +29,9 @@
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
   </a>
   <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/tsCKKG1.png" width="40" height="40" alt="Twitter">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/DWD6hEy.png" height="40" width="40" alt="Dev Community Inc.">
+    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
