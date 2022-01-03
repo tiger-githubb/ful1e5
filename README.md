@@ -5,15 +5,16 @@
 
 - Pronouns: **He**/**Him**
 
-- Technology Lover
+- Tech Driven
+
+- Gifted Artist.
+
+- **OpenSourcer**
 
 - Bachelor of Computer Science
 
-- Full-time **OpenSource Ninja**
+- Support me on [Patreon](https://www.patreon.com/KaizKhatri) or [liberapay](https://liberapay.com/ful1e5)
 
-- You can support my work by [Patreon](https://www.patreon.com/KaizKhatri) or [liberapay](https://liberapay.com/ful1e5)
-
-<br />
 <br />
 
 <p align="center">
