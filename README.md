@@ -3,17 +3,17 @@
 
 # Hi, I'm Kaiz Khatri 👋
 
-- Pronouns: **He**/**Him**
+- pronouns: **he**/**him**
 
-- Tech Driven
+- tech hipster
 
-- Gifted Artist.
+- gifted artist.
 
-- **OpenSourcer**
+- **opensourcer**
 
-- Bachelor of Computer Science
+- bachelor of computer science
 
-- Support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
+- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
 
 <br />
 
