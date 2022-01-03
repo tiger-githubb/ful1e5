@@ -13,7 +13,7 @@
 
 - Bachelor of Computer Science
 
-- Support me on [Patreon](https://www.patreon.com/KaizKhatri) or [liberapay](https://liberapay.com/ful1e5)
+- Support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
 
 <br />
 
