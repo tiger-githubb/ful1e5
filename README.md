@@ -27,7 +27,7 @@
 <!-- Twitch: https://www.twitch.tv/ful1e5 -->
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.twitch.tv/ful1e5">
-    <img src="https://imgur.com/HPXnNM9.png" width="40" height="40" alt="Twitch.tv">
+    <img src="https://imgur.com/guLrui8.png" width="40" height="40" alt="Twitch.tv">
   </a>
   <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
