@@ -30,7 +30,7 @@
     <img src="https://imgur.com/i5QFRn1.png" width="40" height="40" alt="Merch Store">
   </a>
   <a href="https://www.twitch.tv/ful1e5">
-    <img src="https://imgur.com/guLrui8.png" width="40" height="40" alt="Twitch.tv">
+    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
   </a>
   <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
     <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
@@ -39,6 +39,6 @@
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">
+    <img src="https://imgur.com/tO3NTaD.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
