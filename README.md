@@ -26,6 +26,9 @@
 <!-- Discord: https://discord.gg/2RjkTNK -->
 <!-- Twitch: https://www.twitch.tv/ful1e5 -->
 <div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://my-store-6700798.creator-spring.com">
+    <img src="https://imgur.com/i5QFRn1.png" width="40" height="40" alt="Merch Store">
+  </a>
   <a href="https://www.twitch.tv/ful1e5">
     <img src="https://imgur.com/guLrui8.png" width="40" height="40" alt="Twitch.tv">
   </a>
